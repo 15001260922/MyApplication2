@@ -14,5 +14,6 @@ public class TextTwoActivity extends Activity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.e("dsaf","dsaf");
+        Log.e("dsaf","dsaf");
     }
 }
